@@ -1,0 +1,212 @@
+.header1 .header-content {
+	height: 64px;
+	justify-content: space-between;
+	padding-left: var(--page-padding-padding-global);
+}
+
+.header1 .header-nav-link {
+	height: 24px;
+}
+
+.layout1 .list-item1 .list-item-edit {
+	width: 16px; height: 16px;
+}
+
+.layout1 .list-item2 .list-item-edit {
+	width: 16px; height: 16px;
+}
+
+.layout1 .list-item3 .list-item-edit {
+	width: 16px; height: 16px;
+}
+
+.stats-container {
+	width: 100%;
+	max-width: 1280px;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	gap: 48px;
+}
+
+.stats-content {
+	display: flex;
+	flex-direction: column;
+	gap: 24px;
+	align-self: stretch;
+}
+
+.stats-stats {
+	display: flex;
+	flex-direction: column;
+	gap: 24px;
+}
+
+
+
+/* card-stat-a */
+
+.card-stat-a {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+	background-color: var(--color-scheme-1-foreground);
+	padding: 31px;
+	border: var(--stroke-border-width) solid var(--color-scheme-1-border);
+}
+
+.card-stat-content {
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+}
+
+.card-stat-subtitle {
+	color: var(--color-scheme-1-text);
+	font-size: 18px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	line-height: 1.4;
+	letter-spacing: 0px;
+	text-align: left;
+}
+/* end card-stat-a*/
+
+
+.blog1 .title1 {
+	width: 100%;
+	max-width: 768px;
+	align-self: center;
+}
+
+.blog1 .content3 {
+	gap: 8px;
+	align-self: stretch;
+}
+
+.blog1 .content4 {
+	gap: 8px;
+	align-self: stretch;
+}
+
+.blog1 .blog-circle-dot1 {
+	opacity: 1;
+}
+
+.blog1 .blog-btn-actions {
+	margin-right: -1px; margin-top: 0; margin-bottom: unset;
+}
+
+.layout2 .col1 .column-text1 {
+	align-self: stretch;
+}
+
+.layout2 .row1 {
+	margin-left: 72px; margin-right: -51px;
+}
+
+.layout2 .row1 .row-placeholder1 {
+	margin-left: -262px;
+}
+
+.layout2 .row2 {
+	margin-left: -21px; margin-right: -8px;
+}
+
+.layout2 .row2 .row-placeholder1 {
+	margin-left: 262px;
+}
+
+.layout3 .card-component-subtitle {
+	line-height: 1.2;
+}
+
+.layout3 .card-component-text-duis {
+	text-decoration: none;
+}
+
+.layout3 .actions3 {
+	margin-left: 0;
+}
+
+.layout3 .actions3 .actions-btn1 {
+	margin-left: -1px;
+}
+
+.layout4 {
+	gap: 32px;
+}
+
+
+
+/* row-b */
+
+.row-b {
+	width: 100%;
+	max-width: 1280px;
+	display: flex;
+	flex-direction: column;
+	gap: 16px;
+}
+/* end row-b*/
+
+
+.layout-row {
+	width: 100%;
+	max-width: 1280px;
+	display: flex;
+	flex-direction: column;
+	gap: 16px;
+}
+
+.layout-col3 {
+	display: flex;
+	flex-direction: column;
+	gap: 47px;
+}
+
+.layout-section-title {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	gap: 24px;
+	padding-bottom: 1px;
+}
+
+.content18 {
+	align-self: stretch;
+}
+
+.content19 {
+	gap: 12px;
+}
+
+.row16 .col2 {
+	gap: 12px;
+}
+
+.row17 .col2 {
+	gap: 12px;
+}
+
+.row18 .col2 {
+	gap: 12px;
+}
+
+.cta1 .content5 {
+	align-self: stretch;
+}
+
+.cta1 .actions4 .actions-btn2 {
+	color: var(--color-white);
+	background-color: var(--color-neutral-darkest);
+}
+
+.cta1 .actions4 .actions-btn3 {
+	color: var(--color-neutral-darkest);
+}
+
+.footer1 .footer-logo1 {
+	width: 84px; height: 36px;
+}

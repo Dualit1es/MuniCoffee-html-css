@@ -1,0 +1,385 @@
+
+* {
+	--max-screen-size: 1440;
+}
+
+.header1 .header-col2 {
+	width: 84px; height: 36px;
+}
+
+.header1 .header-btn1 {
+	color: var(--color-neutral-darkest);
+}
+
+.header1 .header-btn2 {
+	color: var(--color-white);
+	background-color: var(--color-neutral-darkest);
+}
+
+.layout-container9 {
+	container: layout-container9 / inline-size;
+	width: 100%;
+	max-width: 1280px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 79px;
+}
+
+.layout-component2 {
+	margin: 0 -1px;
+	align-self: stretch;
+}
+
+.content18 {
+	padding-top: 204px;
+	padding-bottom: 204px;
+}
+
+.content18 .actions7 {
+	margin-left: 0;
+}
+
+.content18 .actions7 .actions-btn1 {
+	margin-left: -1px;
+}
+
+.layout2 {
+	container: layout2 / inline-size;
+}
+
+.layout-container10 {
+	width: 100%;
+	max-width: 1280px;
+	display: flex;
+	align-items: center;
+	gap: 80px;
+}
+
+.layout-content11 {
+	margin-top: 1px;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	gap: 40px;
+	flex-grow: 1;
+	padding-bottom: 1px;
+}
+
+.layout-content12 {
+	container: layout-content12 / inline-size;
+	display: flex;
+	flex-direction: column;
+	gap: 40px;
+	align-self: stretch;
+}
+
+.layout-content13 {
+	display: flex;
+	align-items: flex-start;
+	gap: 24px;
+}
+
+
+
+/* list-item-c */
+
+.list-item-c {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+	flex-grow: 1;
+}
+/* end list-item-c*/
+
+
+.contact1 .card-tab-horizontal {
+	background-color: var(--color-scheme-1-foreground);
+	padding-left: 31px;
+	border-left: 1px solid var(--color-scheme-1-accent);
+}
+
+.contact1 .contact-tabs-content {
+	width: 120%;
+}
+
+.layout-container11 {
+	width: 100%;
+	max-width: 768px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 32px;
+	padding-bottom: 1px;
+}
+
+.content19 {
+	width: unset;
+	max-width: unset;
+	align-self: stretch;
+}
+
+.pricing-container {
+	width: 100%;
+	max-width: 1280px;
+	align-items: center;
+	gap: 80px;
+}
+
+.pricing-content {
+	width: 100%;
+	max-width: 560px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 48px;
+}
+
+
+
+/* tabs-b */
+
+.tabs-b {
+	display: flex;
+	align-items: flex-start;
+	gap: 24px;
+	background-color: var(--color-scheme-1-foreground);
+	padding: 3px 27px 3px 3px;
+	border: 1px solid var(--color-scheme-1-border);
+}
+
+.tabs-btn2 {
+	text-align: left;
+}
+
+.tabs-text2 {
+	margin-top: 8px;
+	text-align: left;
+}
+/* end tabs-b*/
+
+
+.card-tabs-content {
+	display: flex;
+	flex-direction: column;
+	gap: 30px;
+	align-self: stretch;
+	background-color: var(--color-scheme-1-foreground);
+	padding: 31px 31px 39px 31px;
+	border: var(--stroke-border-width) solid var(--color-scheme-1-border);
+}
+
+.card-tabs-content-line-b {
+	height: 0;
+	flex-shrink: 0;
+	border-top: 1px solid var(--color-scheme-1-border);
+}
+
+.card-tabs-content-price-title {
+	display: flex;
+	flex-direction: column;
+	gap: 4px;
+}
+
+.card-tabs-content-text-heading {
+	text-align: left;
+}
+
+.card-tabs-content-line1 {
+	margin-top: 1px;
+}
+
+.card-tabs-content-content {
+	margin-top: 2px;
+	display: flex;
+	flex-direction: column;
+	gap: 31px;
+}
+
+.card-tabs-content-title {
+	text-align: left;
+}
+
+.card-tabs-content-btn-actions {
+	margin-left: -1px; margin-right: -1px; margin-top: 0; margin-bottom: unset;
+	color: var(--color-white);
+	background-color: var(--color-neutral-darkest);
+}
+
+.card-tabs-content-list {
+	margin-top: 10px;
+	display: flex;
+	flex-direction: column;
+	gap: 16px;
+}
+
+.contact2 {
+	container: contact2 / inline-size;
+}
+
+.contact-container4 {
+	width: 100%;
+	max-width: 1280px;
+	display: flex;
+	align-items: flex-start;
+	gap: 80px;
+}
+
+.contact-content7 {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	gap: 40px;
+	flex-grow: 1;
+}
+
+.section-title13 {
+	align-self: stretch;
+}
+
+.contact-content8 {
+	container: contact-content2 / inline-size;
+	width: 291px;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	gap: 16px;
+}
+
+.row16 .row-link-text1 {
+	color: var(--color-scheme-1-text);
+	text-decoration: underline;
+}
+
+.row17 .row-link-text1 {
+	color: var(--color-scheme-1-text);
+	text-decoration: underline;
+}
+
+.row18 {
+	align-self: stretch;
+}
+
+.form2 .form-btn {
+	margin-left: -1px; margin-top: 0; margin-bottom: unset;
+	align-self: start;
+	color: var(--color-white);
+	background-color: var(--color-neutral-darkest);
+}
+
+.cta-container3 {
+	width: 100%;
+	max-width: 1280px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 31px;
+	background-color: var(--color-scheme-1-foreground);
+	padding: 67px 255px;
+	border: 1px solid var(--color-scheme-1-border);
+}
+
+.content20 {
+	align-self: stretch;
+}
+
+.actions16 .input-group-btn {
+	margin-right: -1px;
+	color: var(--color-white);
+	background-color: var(--color-neutral-darkest);
+}
+
+.footer1 .footer-logo2 {
+	width: 84px; height: 36px;
+}
+
+
+
+/** breakpoints (margin / paddings) **/
+
+@media screen and (max-width: 1280px) {
+	.card-tabs-content {
+		padding-inline: var(--margin-sm);
+	}
+	.cta-container3 {
+		padding-inline: var(--margin-md);
+	}
+}
+
+@media screen and (max-width: 576px) {
+	.cta-container3 {
+		padding-inline: var(--margin-sm);
+	}
+}
+
+
+
+/* container queries (flex rows) */
+
+@container layout-container9 (width < 1055px) {
+	.layout-component2 {
+		flex-direction: column;
+		align-items: center;
+		gap: 100px;
+		padding: 24px 16px;
+	}
+	.layout-component2 > * {
+		text-align: center;
+	}
+	.layout-component2 > .layout-img2 {
+		width: 100%;
+	}
+	.layout-component2 > .content18 {
+		width: 100%;
+	}
+}
+
+@container layout2 (width < 1069px) {
+	.layout-container10 {
+		flex-direction: column;
+		align-items: center;
+		gap: 100px;
+	}
+	.layout-container10 > * {
+		margin-top: unset !important;
+		text-align: center;
+	}
+	.layout-container10 > .layout-content11 {
+		width: 100%;
+		align-items: center;
+	}
+	.layout-container10 > .layout-placeholder5 {
+		width: 100%;
+	}
+}
+
+@container layout-content12 (width < 599px) {
+	.layout-content13 {
+		flex-direction: column;
+		align-items: flex-start;
+		gap: 8px;
+	}
+	.layout-content13 > .list-item7 {
+		width: 100%;
+	}
+	.layout-content13 > .list-item8 {
+		width: 100%;
+	}
+}
+
+@container contact2 (width < 1279px) {
+	.contact-container4 {
+		flex-direction: column;
+		align-items: flex-start;
+		gap: 100px;
+	}
+	.contact-container4 > .contact-content7 {
+		width: 100%;
+	}
+	.contact-container4 > .form2 {
+		width: 100%;
+	}
+}

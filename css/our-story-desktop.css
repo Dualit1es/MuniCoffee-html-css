@@ -1,0 +1,8 @@
+
+* {
+	--max-screen-size: 1440;
+}
+
+body {
+	align-items: flex-start;
+}
